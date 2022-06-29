@@ -3,3 +3,4 @@ export PATH
 
 
 alias ll="ls -lhatr"
+alias recall="history"
